@@ -13,14 +13,17 @@
     justify-content: center;
 }
 .box1{
-    height: 20vh;
+    height: 40vh;
     width: 20vw;
-    background: red;
+    background: rgba(255, 0, 0, 0.559);
     margin: 10px;
+    border-radius: 50px;
+
 }
 .box2{
-    height: 20vh;
+    height: 40vh;
     width: 20vw;
-    background: rgb(9, 190, 124);
+    background: rgba(20, 213, 81, 0.729);
     margin: 10px;
+    border-radius: 50px;
 }
